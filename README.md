@@ -31,7 +31,7 @@ To clone the repository, open a terminal or command prompt and run the following
 git clone https://github.com/Farbodpya/Eigen_DCT-Fusion-Matrix.git
 
 
-cd matrix-benchmark
+cd Eigen_DCT-Fusion-Matrix
 
 pip install -r requirements.txt
 
