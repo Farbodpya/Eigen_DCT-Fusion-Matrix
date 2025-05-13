@@ -28,7 +28,7 @@ To get started with this project, follow these steps to clone the repository and
 To clone the repository, open a terminal or command prompt and run the following command:
 
 ```bash
-git clone https://github.com/yourusername/matrix-benchmark.git
+git clone https://github.com/Farbodpya/Eigen_DCT-Fusion-Matrix.git
 
 
 cd matrix-benchmark
